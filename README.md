@@ -8,7 +8,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [How to use](#how_to_use)
+- [How to use](#how to use)
 - [Screenshot](#screenshot)
 - [Contributors](#contributors)
 
@@ -45,5 +45,5 @@ Untuk developer yang ingin menggunakan codebase ini silahkan ikuti intruksi diba
 </div>
 
 ## Contributors
-Created by @agusnuryady
-24 May 2021
+* Created by @agusnuryady
+* 24 May 2021
