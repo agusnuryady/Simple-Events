@@ -1,0 +1,17 @@
+{
+  "events": "Events",
+  "grid": "Grid",
+  "list": "List",
+  "logout": "Logout",
+  "rundown": "Rundown",
+  "selected": "Dipilih",
+  "welcome": "Welcome",
+
+  "letsSignIn": "Let,s sign you in.",
+  "myEvents": "My Events",
+  "searchEvent": "Search event...",
+  "selectLanguage": "Pilih Bahasa",
+  "signIn": "Sign In",
+  "wellcomeBack": "Welcom back. \nYou`ve been missed!",
+  "yourName": "Your name"
+}
