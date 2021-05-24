@@ -44,6 +44,9 @@ Untuk developer yang ingin menggunakan codebase ini silahkan ikuti intruksi diba
     <img width="200" src="https://github.com/agusnuryady/Simple-Events/blob/master/src/assets/images/sc_4.png">
 </div>
 
+## APPS
+* [Android APk](https://github.com/agusnuryady/Simple-Events/blob/master/android/app/src/app-release.apk)
+
 ## Contributors
 * Created by @agusnuryady
 * 24 May 2021
