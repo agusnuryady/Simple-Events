@@ -8,7 +8,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [How to use](#how to use)
+- [How to use](#howtouse)
 - [Screenshot](#screenshot)
 - [Contributors](#contributors)
 
