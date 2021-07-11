@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hunianaja.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>197CF6E2F75E58D56D3C6A9B022F04BFFBAEFAC8</string>
+				<key>dateExpires</key>
+				<string>05/08/21</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>197CF6E2F75E58D56D3C6A9B022F04BFFBAEFAC8</string>
+						<key>dateExpires</key>
+						<string>05/08/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>OpenSSL.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>S39WRXUKHC</string>
+						<key>name</key>
+						<string>PT. Telekomunikasi Indonesia, Tbk.</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>S39WRXUKHC.com.hunianaja</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>S39WRXUKHC</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>hunianaja.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>5f64f17d-4f22-41e5-833c-0afa3117f54c</string>
+				<key>name</key>
+				<string>hunianaja_tester</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>S39WRXUKHC</string>
+				<key>name</key>
+				<string>PT. Telekomunikasi Indonesia, Tbk.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
