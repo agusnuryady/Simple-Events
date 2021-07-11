@@ -1,24 +1,25 @@
-# Codebase React Native JS v1.0
+<h1 align="center">:octocat: Simple Events :octocat:</h1>
 
-Code base React Native terbaru menggunakan versi RN v0.63.0 dan javascript base,
-sudah terpasang modul:
-1. react-native-i18n untuk switch bahasa
-2. react-navigation sebagai navigation route management
-3. redux dan redux persist sebagai global state dan permanent local memory
-4. react-native-svg untuk asset icon yang berformat svg menjadi js.
+  <p align="center">
+  Built with React Native v0.63.0
+   </p>
+   
+   ## Table of Contents
 
-tersedia global component antara lain:
-1. Alert
-2. Button
-3. Card
-4. Header
-5. Input
+- [Introduction](#introduction)
+- [Features](#features)
+- [How to use](#howtouse)
+- [Screenshot](#screenshot)
+- [Contributors](#contributors)
 
-dan banyak lagi tambahan feature untuk mendukung suatu project yang akan dibuat.
+## Introduction
+Simple Events is event explore app for simple use and easy.
 
-- tersedia started Screen example biasa dan juga hooks yg terstruktur agar mudah dipahami.
-
-- dalam codebase ini juga sudah terpasang enviroment switch agar memudahkan proses development, staging sampai ke production.
+## Features
+* Event Explore
+* Event Detail
+* Login
+* My Event
 
 ## How to use
 
@@ -35,5 +36,17 @@ Untuk developer yang ingin menggunakan codebase ini silahkan ikuti intruksi diba
 9. selanjutnya jalankan > `yarn env:dev` , atau enviroment lainnya sesuai script yg terdapat di package.json
 10. terakhir jalankan > `yarn ios` atau > `yarn android` untuk running RN di device atau emulator
 
-## Created by @agusnuryady
-24-05-2021
+## Screenshot
+<div align="center">
+    <img width="200" src="https://github.com/agusnuryady/Simple-Events/blob/master/src/assets/images/sc_1.png">
+    <img width="200" src="https://github.com/agusnuryady/Simple-Events/blob/master/src/assets/images/sc_2.png">
+    <img width="200" src="https://github.com/agusnuryady/Simple-Events/blob/master/src/assets/images/sc_3.png">
+    <img width="200" src="https://github.com/agusnuryady/Simple-Events/blob/master/src/assets/images/sc_4.png">
+</div>
+
+## APPS
+* [Android APk](https://github.com/agusnuryady/Simple-Events/blob/master/android/app/src/app-release.apk)
+
+## Contributors
+* Created by @agusnuryady
+* 24 May 2021
